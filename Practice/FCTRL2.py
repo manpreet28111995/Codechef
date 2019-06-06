@@ -1,4 +1,5 @@
 #Problem Link: https://www.codechef.com/problems/FCTRL2
+#Author: Manpreet Singh
 try:
     for i in range(int(input())):
         n=int(input())
