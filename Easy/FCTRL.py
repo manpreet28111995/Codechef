@@ -4,8 +4,8 @@ try:
         n=int(input())
         d=5
         count=0
-        while(n/d=>1):
-            count=int(n/d)
+        while(n/d>=1):
+            count+=int(n/d)
             d=d*5
         print(count)
 except:
