@@ -1,4 +1,4 @@
-#Problem Link : https://www.codechef.com/problems/FLOW00/
+#Problem Link : https://www.codechef.com/problems/FLOW008/
 try:
     for i in range(int(input())):
         s=int(input())
